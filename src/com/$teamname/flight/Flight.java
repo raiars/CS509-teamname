@@ -44,5 +44,10 @@ public class Flight {
 		
 	}
 	
+	
+	public Airplane getAirplane() {
+		return airplane;
+	}
+	
 
 }
